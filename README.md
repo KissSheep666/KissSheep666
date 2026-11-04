@@ -18,5 +18,4 @@
 - [大模型训练笔记（一）：模型下载下来到底是什么，以及为什么它得靠显卡](https://kisslua.vercel.app/posts/llm-train-01-what-is-a-model/)
 - [摄像头怎么数人：实时区域人数统计入门，以及数字为什么会跳](https://kisslua.vercel.app/posts/realtime-people-counting-intro/)
 - [Kafka、RabbitMQ、RocketMQ：场景、原理、选型与实战](https://kisslua.vercel.app/posts/kafka-rabbitmq-rocketmq/)
-
 <!-- BLOG-POST-LIST:END -->
