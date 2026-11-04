@@ -20,4 +20,5 @@ jobs:
         with:
           feed_list: "https://kisslua.vercel.app/rss.xml"
           max_post_count: 10
-          template: "- [$title]($url)"
+          template: "- [$title]($url)$newline"
+          tag_post_pre_newline: true
