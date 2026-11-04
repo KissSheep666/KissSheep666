@@ -1,0 +1,23 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # UTC 00:00，北京时间 08:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update README with latest posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://kisslua.vercel.app/rss.xml"
+          max_post_count: 10
+          template: "- [$title]($url)"
