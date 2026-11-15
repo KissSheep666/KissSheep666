@@ -8,6 +8,7 @@
 ## 最新文章
 
 <!-- BLOG-POST-LIST:START -->
+- [Agent 实战（机制篇）：上下文压缩——检测、时机、边界，以及 roleplay 与 coding 的分岔](https://kisslua.vercel.app/posts/agent-compaction-mechanism/)
 - [模型的上下文到底由什么决定：从自注意力、KV Cache 到 1M 窗口](https://kisslua.vercel.app/posts/model-context-explained/)
 - [从一团噪声到一张图：文生图到底是怎么工作的？](https://kisslua.vercel.app/posts/text-to-image-principles/)
 - [机器人怎么从客厅走到卧室？一个纯 Python 家庭导航仿真](https://kisslua.vercel.app/posts/home-nav-sim-intro/)
@@ -17,5 +18,4 @@
 - [向量数据库选型：先弄懂 HNSW 在算什么，再决定要不要上专用库](https://kisslua.vercel.app/posts/vector-db-selection/)
 - [大模型训练笔记（三）：LoRA、蒸馏与强化学习，以及你自己怎么上手](https://kisslua.vercel.app/posts/llm-train-03-post-training-and-getting-started/)
 - [大模型训练笔记（二）：预训练与 SFT，从词语接龙到听指令](https://kisslua.vercel.app/posts/llm-train-02-pretrain-and-sft/)
-- [大模型训练笔记（一）：模型下载下来到底是什么，以及为什么它得靠显卡](https://kisslua.vercel.app/posts/llm-train-01-what-is-a-model/)
 <!-- BLOG-POST-LIST:END -->
