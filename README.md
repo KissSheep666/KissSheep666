@@ -1,11 +1,17 @@
 # Hi, I'm KissSheep 👋
 
-后端开发 / 在读大学生。记录 Java、Agent、RAG 与机器人项目。
+后端开发 / 在读大学生 · 记录 Java、Agent、RAG 与机器人项目
 
-- Blog: https://kisslua.vercel.app
-- GitHub: https://github.com/KissSheep666
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-## 最新文章
+---
+
+## 📝 最新文章
 
 <!-- BLOG-POST-LIST:START -->
 - [图片是怎么变成 token 的：多模态模型看懂一张图的四步链路](https://kisslua.vercel.app/posts/image-to-token-multimodal-pipeline/)
@@ -19,3 +25,10 @@
 - [向量数据库选型：先弄懂 HNSW 在算什么，再决定要不要上专用库](https://kisslua.vercel.app/posts/vector-db-selection/)
 - [大模型训练笔记（三）：LoRA、蒸馏与强化学习，以及你自己怎么上手](https://kisslua.vercel.app/posts/llm-train-03-post-training-and-getting-started/)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🔗 找到我
+
+[![Blog](https://img.shields.io/badge/Blog-kisslua.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://kisslua.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-KissSheep666-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KissSheep666)
