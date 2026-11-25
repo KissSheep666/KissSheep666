@@ -14,6 +14,7 @@
 ## 📝 最新文章
 
 <!-- BLOG-POST-LIST:START -->
+- [大模型的「思考」是怎么回事：没有思考模块，只有一块草稿纸](https://kisslua.vercel.app/posts/how-thinking-works/)
 - [图片是怎么变成 token 的：多模态模型看懂一张图的四步链路](https://kisslua.vercel.app/posts/image-to-token-multimodal-pipeline/)
 - [Agent 实战（机制篇）：上下文压缩——检测、时机、边界，以及 roleplay 与 coding 的分岔](https://kisslua.vercel.app/posts/agent-compaction-mechanism/)
 - [模型的上下文到底由什么决定：从自注意力、KV Cache 到 1M 窗口](https://kisslua.vercel.app/posts/model-context-explained/)
@@ -23,7 +24,6 @@
 - [Agent 实战（参考篇）：Claude Code、pi、Codex、Gemini CLI 是怎么 compact 的](https://kisslua.vercel.app/posts/agent-compaction-reference/)
 - [分布式锁选型：一个扣库存场景，五种方案，以及那个不需要锁的做法](https://kisslua.vercel.app/posts/distributed-lock-selection/)
 - [向量数据库选型：先弄懂 HNSW 在算什么，再决定要不要上专用库](https://kisslua.vercel.app/posts/vector-db-selection/)
-- [大模型训练笔记（三）：LoRA、蒸馏与强化学习，以及你自己怎么上手](https://kisslua.vercel.app/posts/llm-train-03-post-training-and-getting-started/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
